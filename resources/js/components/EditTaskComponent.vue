@@ -59,7 +59,7 @@ export default {
         editTask() {
 
       this.loading = true;
-      axios.put(`/api/edit-task/${this.task.id}`, {
+      axios.put(`/api/tasks/${this.task.id}`, {
           title: this.title,
           description: this.description,
         })

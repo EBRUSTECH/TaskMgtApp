@@ -111,7 +111,7 @@
                     })
                     .then((result) => {
                         if (result.isConfirmed) {
-                            axios.delete(`/api/delete-task/${id}`)
+                            axios.delete(`/api/tasks/${id}`)
                     .then((response) => {
                         if (response.data.success) {
                             swal
@@ -179,7 +179,7 @@
 
             markTask(id) {
 
-                axios.get(`/api/mark-task/${id}`)
+                axios.get(`/api/mark-tasks/${id}`)
                     .then((response) => {
                         if (response.data.success) {
                             Swal.fire({

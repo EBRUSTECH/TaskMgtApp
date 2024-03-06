@@ -81,7 +81,7 @@
                   }
                 this.loading = true;
                 axios
-                    .post("/api/add-task", {
+                    .post("/api/tasks", {
                         title: this.title,
                         description: this.description,
                     })
