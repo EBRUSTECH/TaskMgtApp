@@ -22,12 +22,12 @@ This is a task management application built with Laravel (Backend) and Vue.js (F
 
 ## Endpoints
 
-GET /api/tasks
-GET /api/tasks/{id}
-POST /api/tasks
-PUT /api/tasks/{id}
-DELETE /api/tasks/{id}
-GET /api/mark-tasks/{id}
+1. GET /api/tasks
+2. GET /api/tasks/{id}
+3. POST /api/tasks
+4. PUT /api/tasks/{id}
+5. DELETE /api/tasks/{id}
+6. GET /api/mark-tasks/{id}
 
 
 
