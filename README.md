@@ -29,6 +29,12 @@ This is a task management application built with Laravel (Backend) and Vue.js (F
 5. DELETE /api/tasks/{id}
 6. GET /api/mark-tasks/{id}
 
+## URLs for Navigation
+1. /add-task is to add a new task
+2. /single-task/{id} is to retrieve a single task
+3. /edit-task/{id} to edit selected task
+4. /tasks to view all tasks
+
 
 
 
