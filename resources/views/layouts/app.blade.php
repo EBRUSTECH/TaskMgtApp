@@ -62,9 +62,6 @@
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida lacus vel facilisis. </p>
                 <div class="contact-method">
-                  <p> <i class="fas fa-map-marker-alt"></i>5 South Main Street Los Angeles, ZZ-96110 USA</p>
-                  <p> <i class="far fa-mobile-android"></i>125-711-811   |   125-668-886</p>
-                  <p> <i class="fas fa-headphones-alt"></i>Support.hosting@gmail.com</p>
                 </div>
               </div>
             </div>
